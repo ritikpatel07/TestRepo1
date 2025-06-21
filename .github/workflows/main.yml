@@ -1,3 +1,4 @@
+# This will trigger whenever a new push if made to master branch
 name: CI
 'on':
   push:
